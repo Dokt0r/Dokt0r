@@ -17,8 +17,8 @@ I am a results-driven developer with a strong foundation in **Algorithms** and *
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord&langs_count=6" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dokt0r&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dokt0r&layout=compact&theme=nord&langs_count=6" />
 </p>
 
 ---
