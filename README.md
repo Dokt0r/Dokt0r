@@ -33,5 +33,6 @@ I enjoy optimizing code for time complexity. If there's an $O(n \log n)$ solutio
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](www.linkedin.com/in/SantiagoSantéPena)
-[![Email](ssante@ucm.es)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:ssante@ucm.es)
+
