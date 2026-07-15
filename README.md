@@ -2,7 +2,7 @@
 
 ### 🚀 Software Developer | Java Enthusiast | Full-stack Explorer
 
-I am a results-driven developer with a strong foundation in **Algorithms** and **Data Structures** as well as **Web design**. My focus is on building scalable, clean, and efficient back-end solutions. After completing a successful internship at **ERI**, I am looking to further my career by tackling complex software engineering challenges.
+I am a results-driven developer with a strong foundation in **Algorithms**, **Data Structures**, and **Web Design**. My focus is on building scalable, clean, and efficient solutions. After completing a successful internship at **ERI**, I am looking to further my career by tackling complex software engineering challenges.
 
 ---
 
@@ -14,18 +14,28 @@ I am a results-driven developer with a strong foundation in **Algorithms** and *
 
 ---
 
-### 📈 GitHub Analytics
+### 💼 Featured Projects
 
-<p align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dokt0r&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dokt0r&layout=compact&theme=nord&langs_count=6" />
-</p>
+#### 🌐 [Valeria Sibert - Personal Brand Website](https://valeriasibert.netlify.app)
+*Client Project*
+- A fully responsive, modern web platform designed and deployed for a client to showcase their professional portfolio. 
+- **Key Features:** Clean UI/UX, optimized assets for fast loading speeds, and seamless navigation.
+- **Tech Stack:** HTML5, CSS3, JavaScript, Netlify.
+
+#### 🐍 [HTML Converter](https://github.com/Dokt0r/HTML_Converter)
+*Open Source Tool*
+- A Python-based system built to automatically transform document formats like `.pdf`, `.docx`, and `.pptx` into clean, well-structured HTML.
 
 ---
 
-### 🔭 Currently Working On
-- **Advanced Algorithms:** Solving competitive programming challenges (FAL/TAIS paradigms).
-- **Personal Project:** https://github.com/Dokt0r/HTML_Converter - A python based system transform any kind of document .pdf .docx .pptx into HTML.
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dokt0r&show_icons=true&theme=nord&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dokt0r&layout=compact&theme=nord&langs_count=6" height="180" />
+</p>
+
+---
 
 ### ⚡ Fun Fact
 I enjoy optimizing code for time complexity. If there's an $O(n \log n)$ solution, I won't settle for $O(n^2)$!
@@ -33,6 +43,5 @@ I enjoy optimizing code for time complexity. If there's an $O(n \log n)$ solutio
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:ssante@ucm.es)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssante@ucm.es)
