@@ -31,8 +31,8 @@ I am a results-driven developer with a strong foundation in **Algorithms**, **Da
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dokt0r&show_icons=true&theme=nord&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dokt0r&layout=compact&theme=nord&langs_count=6" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dokt0r&theme=nord" height="180" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Dokt0r&layout=compact&theme=nord&langs_count=6" height="180" />
 </p>
 
 ---
