@@ -22,9 +22,6 @@ I am a results-driven developer with a strong foundation in **Algorithms**, **Da
 - **Key Features:** Clean UI/UX, optimized assets for fast loading speeds, and seamless navigation.
 - **Tech Stack:** HTML5, CSS3, JavaScript, Netlify.
 
-#### 🐍 [HTML Converter](https://github.com/Dokt0r/HTML_Converter)
-*Open Source Tool*
-- A Python-based system built to automatically transform document formats like `.pdf`, `.docx`, and `.pptx` into clean, well-structured HTML.
 
 ---
 
